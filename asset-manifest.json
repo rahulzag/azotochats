@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/azotochat/static/css/main.9cb7495d.chunk.css",
+    "main.js": "/azotochat/static/js/main.b3714f90.chunk.js",
+    "main.js.map": "/azotochat/static/js/main.b3714f90.chunk.js.map",
+    "runtime-main.js": "/azotochat/static/js/runtime-main.b010f965.js",
+    "runtime-main.js.map": "/azotochat/static/js/runtime-main.b010f965.js.map",
+    "static/js/2.f5ab86af.chunk.js": "/azotochat/static/js/2.f5ab86af.chunk.js",
+    "static/js/2.f5ab86af.chunk.js.map": "/azotochat/static/js/2.f5ab86af.chunk.js.map",
+    "index.html": "/azotochat/index.html",
+    "precache-manifest.0e7287d9a17fc251fa0ec4576658509c.js": "/azotochat/precache-manifest.0e7287d9a17fc251fa0ec4576658509c.js",
+    "service-worker.js": "/azotochat/service-worker.js",
+    "static/css/main.9cb7495d.chunk.css.map": "/azotochat/static/css/main.9cb7495d.chunk.css.map",
+    "static/js/2.f5ab86af.chunk.js.LICENSE.txt": "/azotochat/static/js/2.f5ab86af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b010f965.js",
+    "static/js/2.f5ab86af.chunk.js",
+    "static/css/main.9cb7495d.chunk.css",
+    "static/js/main.b3714f90.chunk.js"
+  ]
+}
